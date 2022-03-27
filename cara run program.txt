@@ -1,3 +1,5 @@
+program dapat di jalankan di folder nearu menggunakan IDE (aku pakai vscode)
+
 -install flutter dan dart sdk
 
 https://youtu.be/KSUZ9RQ79vM 
