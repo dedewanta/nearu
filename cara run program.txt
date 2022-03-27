@@ -1,0 +1,20 @@
+-install flutter dan dart sdk
+
+https://youtu.be/KSUZ9RQ79vM 
+https://youtu.be/asNdz10WR6w
+
+- download emulator atau pakai hp (aku pakai emulator di android studio)
+
+https://youtu.be/-z1DcFsZlpc
+https://youtu.be/IsVEjkvh_xc
+
+- terakhir tambahkan get_cli sebagai preinstalled getx management route
+(ps. turunin versi ke 1.6 yang versi 1.7 banyak bugnya)
+
+https://youtu.be/qELR-RIB5vY
+
+- bahan belajar flutter
+(channel youtube)
+
+https://www.youtube.com/channel/UCOIXRIEDrW4LbyCPZQZ4WTA
+https://www.youtube.com/channel/UC0s92eMIsyR9otmIiY4v8Ww
